@@ -1,1 +1,1 @@
-# Milled_Rice_Identification_Using_ML
+# Milled rice of KDML105
